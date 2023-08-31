@@ -1,6 +1,6 @@
 ## Olá!Eu sou o Guilherme...
 
-- 🌱 Estudande da UFV...
+- 🌱 Estudande de Ciência da Computação na UFV - Campus Florestal
 - 😄 Pronouns:ele/dele
 
 <div align="center">
