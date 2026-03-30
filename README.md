@@ -51,21 +51,21 @@
 <h3 align="center">Atividade</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GuilhermeCorreaSouza&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=GuilhermeCorreaSouza25&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeCorreaSouza/GuilhermeCorreaSouza/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeCorreaSouza/GuilhermeCorreaSouza/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/GuilhermeCorreaSouza/GuilhermeCorreaSouza/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeCorreaSouza25/GuilhermeCorreaSouza25/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeCorreaSouza25/GuilhermeCorreaSouza25/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/GuilhermeCorreaSouza25/GuilhermeCorreaSouza25/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeCorreaSouza&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeCorreaSouza25&theme=tokyo-night&hide_border=true" />
 </div>
