@@ -30,7 +30,7 @@
 <h3 align="center">Stack Principal</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,js,html,css,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,js,vite,html,css,mysql,git" />
 </p>
 
 ---
@@ -40,6 +40,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
